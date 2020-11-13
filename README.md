@@ -9,7 +9,9 @@ Google AutoML and AI Platform provide an innovative way to build an AI-based sys
 This book will give you an in-depth knowledge of Google AutoML and AI Platform by implementing the real-life examples such as an Issue Categorization System, Sentiment Analysis, and Loan DefaultPrediction System. This book is relevant to the developers, cloud enthusiasts, and cloud architects at the beginner and intermediate levels.
 
 ## What will you learn
-* By the end of thisbook, you will learn how Google AutoML, AI Platform, BigQuery, DataPrep, and Dapaproc can be used to build an end-to-end machine learning pipeline. You will also learn how different types of AI problems can be solvedusing these Google AI services. A step-by-step implementation of some of the common NLP problems such as an Issue Categorization System and Sentiment Analysisprovides you with hands-on experience in building complex AI-based systems by easily leveraging the GCP AI services.
+* By the end of thisbook, you will learn how Google AutoML, AI Platform, BigQuery, DataPrep, and Dapaproc can be used to build an end-to-end machine learning pipeline. 
+* You will also learn how different types of AI problems can be solvedusing these Google AI services. 
+* A step-by-step implementation of some of the common NLP problems such as an Issue Categorization System and Sentiment Analysisprovides you with hands-on experience in building complex AI-based systems by easily leveraging the GCP AI services.
 
 ## Related Products
 
